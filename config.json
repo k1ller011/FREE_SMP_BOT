@@ -1,0 +1,40 @@
+{
+  "bot_token": "9218804599:AAF9aqbtV2S3e0M7da6FJEGFGFc3EmPzYqo",
+  "promo_pools": {
+    "tg_rasmiy": ["KS-RSP-741", "KS-RSP-928", "KS-RSP-514", "KS-RSP-630", "KS-RSP-119"],
+    "tg_muhokama": ["KS-MHD-382", "KS-MHD-605", "KS-MHD-819", "KS-MHD-442", "KS-MHD-771"],
+    "tg_yt": ["KS-YTC-193", "KS-YTC-476", "KS-YTC-852", "KS-YTC-304", "KS-YTC-995"],
+    "youtube": ["KS-TUB-249", "KS-TUB-531", "KS-TUB-768", "KS-TUB-812", "KS-TUB-603"],
+    "insta": ["KS-INS-412", "KS-INS-693", "KS-INS-307", "KS-INS-525", "KS-INS-984"]
+  },
+  "channels": {
+    "tg_rasmiy": {
+      "name": "🔵 Rasmiy Telegram Kanal",
+      "type": "telegram",
+      "channel_id": "@KillerStax_Rasmiy",
+      "invite_link": "https://t.me/KillerStax_Rasmiy"
+    },
+    "tg_muhokama": {
+      "name": "💬 Muhokama Guruhi",
+      "type": "telegram",
+      "channel_id": "@KillerStax_Muhokama_Rasmiy",
+      "invite_link": "https://t.me/KillerStax_Muhokama_Rasmiy"
+    },
+    "tg_yt": {
+      "name": "🔔 YT Telegram Kanali",
+      "type": "telegram",
+      "channel_id": "@KILLLLERMINECRAFT",
+      "invite_link": "https://t.me/KILLLLERMINECRAFT"
+    },
+    "youtube": {
+      "name": "🔴 YouTube Kanal",
+      "type": "manual",
+      "invite_link": "https://youtube.com/@killer01jon?si=3aSK6Kz3gg69nkcJ"
+    },
+    "insta": {
+      "name": "📸 Instagram Sahifa",
+      "type": "manual",
+      "invite_link": "https://www.instagram.com/killeruz78?igsh=MWd1bmpmd3J3bWJkaQ=="
+    }
+  }
+}
